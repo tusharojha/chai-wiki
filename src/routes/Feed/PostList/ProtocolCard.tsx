@@ -11,7 +11,7 @@ const ProtocolCard: React.FC = () => {
         </div>
         <div className="content bg-red-200">
           <header className="top">
-            <h1>Chai Network's Wiki</h1>
+            <h1>Chai Network&apos;s Wiki</h1>
           </header>
           <div className="summary">
             <p>Building On-Chain Reputation Protocol for the Internet</p>
